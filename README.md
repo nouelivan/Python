@@ -1,2 +1,2 @@
 # Python
-Projects created using Python.
+Projects created using Python 3.
